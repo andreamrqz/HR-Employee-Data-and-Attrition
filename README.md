@@ -1,7 +1,7 @@
 ## HR Employee Data and People Analytics
 
 ## Overview
-This README file documents the process and findings from querying an HR employee dataset from [Kaggle](https://www.kaggle.com/datasets/jash312/hr-employee-attrition-datasets/data?select=HR+Employee+data.csv) using SQL Workbench. Additionally, a dashboard was created in Tableau to visualize the insights obtained from the data.
+This README file documents the process and findings from querying an HR employee dataset from [Kaggle](https://www.kaggle.com/datasets/jash312/hr-employee-attrition-datasets/data?select=HR+Employee+data.csv) using SQL Workbench. Additionally, a dashboard was created in [Tableau](https://public.tableau.com/app/profile/andrea.marquez3249/viz/HRDashboard-PeopleAnalytics/OverviewDashboard) to visualize the insights obtained from the data.
 
 ![Overview Dashboard.png](https://github.com/andreamrqz/HR-Employee-Data-and-Attrition/blob/main/Overview%20Dashboard.png)
 ![Employee Records Dashboard.png](https://github.com/andreamrqz/HR-Employee-Data-and-Attrition/blob/main/Employee%20Records%20Dashboard.png)
