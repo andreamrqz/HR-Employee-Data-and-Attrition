@@ -8,26 +8,26 @@ Using SQL Workbench, I performed several queries to extract and analyze key info
 
 ### 1. Number of Departments
 There are six departments in the company. Ordered by descending headcount, they are:
-Corporate Functions, 2321
-Sales, 2277
-Product, 2239
-Delivery, '218
-HR, 2187
-Marketing, 2181
+- Corporate Functions, 2321
+- Sales, 2277
+- Product, 2239
+- Delivery, '218
+- HR, 2187
+- Marketing, 2181
 
 ### 2. Company Locations
 The company operates in the following locations:
-US: New York, Boston, and Philadelphia
-Canada: Toronto, Markham, Calgary, Ottawa, and Vancouver
+- US: New York, Boston, and Philadelphia
+- Canada: Toronto, Markham, Calgary, Ottawa, and Vancouver
 
 ### 3. Employee Count in Canada and the US
 US:
-Current Employees: 3,868
-Total Employees: 5,419
+- Current Employees: 3,868
+- Total Employees: 5,419
 
 Canada:
-Current Employees: 6,357
-Total Employees: 8,004
+- Current Employees: 6,357
+- Total Employees: 8,004
 
 Most of the employees work or have worked in Canada.
 
@@ -38,33 +38,33 @@ Ten percent (1,042 persons) of the current employee population is working overti
 Salary Range: $2,852.54 to $19,320.56
 
 Highest Paid Roles by Department:
-Marketing: Director of Marketing
-Delivery: Director of Service Delivery
-Sales: Director of Sales
-Corporate Functions: Administrative Manager
-HR: Director of Human Resources
-Product: Director of Product Management
+- Marketing: Director of Marketing
+- Delivery: Director of Service Delivery
+- Sales: Director of Sales
+- Corporate Functions: Administrative Manager
+- HR: Director of Human Resources
+- Product: Director of Product Management
 
 ### 6. Employee Satisfaction by Department
 Average satisfaction scores range from 2.36 to 2.4 across departments in the following order:
-Corporate Functions
-Product
-Sales
-Marketing
-HR
-Delivery
+- Corporate Functions
+- Product
+- Sales
+- Marketing
+- HR
+- Delivery
 
 ### 7. Employee Satisfaction by Job Role
-Highest Satisfaction: Vice President (VP) or Chief Officer (L7 Job Level) with a score of 3.37
-Lowest Satisfaction: Senior Account Executive (L3 Job Level) with a score of 2.28
+- Highest Satisfaction: Vice President (VP) or Chief Officer (L7 Job Level) with a score of 3.37
+- Lowest Satisfaction: Senior Account Executive (L3 Job Level) with a score of 2.28
 
 ### 8. Longest Tenure by Department
-Delivery: 15 years
-Corporate Functions: 14 years
-Sales: 13 years
-HR: 13 years
-Marketing: 12 years
-Product: 12 years
+- Delivery: 15 years
+- Corporate Functions: 14 years
+- Sales: 13 years
+- HR: 13 years
+- Marketing: 12 years
+- Product: 12 years
 
 
 ## Dashboard in Tableau
