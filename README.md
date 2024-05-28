@@ -1,6 +1,6 @@
-# HR-Employee-Data-and-Attrition
+### HR-Employee-Data-and-Attrition
 
-#Overview
+### Overview
 This README file documents the process and findings from querying an HR employee dataset from Kaggle using SQL Workbench. Additionally, a dashboard was created in Tableau to visualize the insights obtained from the data, which was consolidated from four CSV files available on Kaggle.
 
 #Data Processing
